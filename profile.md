@@ -6,7 +6,7 @@
 - **Program:** Digital Technology Innovation
 - **Academic Year:** 3rd Year
 
-## Technical Skills
+## Technical Skill
 - **Programming Languages:** Python, HTML, CSS, JavaScript
 - **Database Skills:** MySQL
 - **Web Development Skills:** HTML, CSS, JavaScript
@@ -16,3 +16,8 @@ After graduation, I want to work as a web developer and improve my UI/UX design 
 
 ## Learning Expectations
 I expect to learn how to use Git and GitHub to manage and share software projects.
+
+## Future Development Plan
+- **Technical skill I want to improve:** JavaScript
+- **Technology I want to learn:** React
+- **Dream job position:** Web Developer
