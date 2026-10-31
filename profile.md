@@ -21,3 +21,13 @@ I expect to learn how to use Git and GitHub to manage and share software project
 - **Technical skill I want to improve:** JavaScript
 - **Technology I want to learn:** React
 - **Dream job position:** Web Developer
+
+## Semester Goals
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
